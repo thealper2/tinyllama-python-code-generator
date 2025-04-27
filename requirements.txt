@@ -1,0 +1,10 @@
+datasets
+fastapi
+hydra-core
+omegaconf
+peft
+pydantic
+torch
+transformers
+trl
+uvicorn
